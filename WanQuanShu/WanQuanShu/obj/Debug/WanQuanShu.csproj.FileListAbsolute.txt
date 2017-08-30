@@ -1,0 +1,7 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\WanQuanShu\WanQuanShu\bin\Debug\WanQuanShu.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\WanQuanShu\WanQuanShu\bin\Debug\WanQuanShu.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\WanQuanShu\WanQuanShu\bin\Debug\WanQuanShu.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\WanQuanShu\WanQuanShu\obj\Debug\WanQuanShu.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\WanQuanShu\WanQuanShu\obj\Debug\WanQuanShu.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\WanQuanShu\WanQuanShu\obj\Debug\WanQuanShu.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\WanQuanShu\WanQuanShu\obj\Debug\WanQuanShu.pdb
