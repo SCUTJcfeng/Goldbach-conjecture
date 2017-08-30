@@ -1,0 +1,7 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Goldbach conjecture\Goldbach conjecture\bin\Debug\Goldbach conjecture.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Goldbach conjecture\Goldbach conjecture\bin\Debug\Goldbach conjecture.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Goldbach conjecture\Goldbach conjecture\bin\Debug\Goldbach conjecture.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Goldbach conjecture\Goldbach conjecture\obj\Debug\Goldbach conjecture.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Goldbach conjecture\Goldbach conjecture\obj\Debug\Goldbach conjecture.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Goldbach conjecture\Goldbach conjecture\obj\Debug\Goldbach conjecture.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\Goldbach conjecture\Goldbach conjecture\obj\Debug\Goldbach conjecture.pdb
